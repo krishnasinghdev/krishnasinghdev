@@ -1,46 +1,40 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">👋 Hi, I'm Krishna</h1>
 
-###
+> Full Stack Developer crafting robust web applications with modern technologies
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/krishnasingh-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://evenbeam.slack.com/team/U044CJDHUDU" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  </a>
-  <a href="https://x.com/krishnasinghdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+With 2+ years of hands-on experience building scalable applications, I specialize in creating exceptional digital experiences using Next.js, Node.js, and cloud technologies. Currently shaping the future of booking systems at Dingg as a Junior Software Engineer.
 
-###
+## 🚀 What I Bring to the Table
 
-<br clear="both">
+- **Full Stack Expertise**: Proven track record of developing end-to-end solutions from MVP to production
+- **Performance Optimization**: Successfully reduced database query times through API optimization and efficient architecture
+- **Cloud Native Development**: Experience with AWS services, Docker containerization, and modern deployment practices
+- **Technical Leadership**: Led development of vendor booking portal improving international reach
+- **Product Mindset**: Strong focus on user experience, performance, and business impact
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=singhks0054.singhks0054&left_color=aliceblue&right_color=aliceblue"  />
-</div>
+## 💻 Technical Arsenal
 
-###
+```typescript
+const skills = {
+  frontend: {
+    modern: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    styling: ["Shadcn/UI", "Material UI", "Framer Motion"],
+    state: ["Redux", "React Query", "Zustand"],
+  },
+  backend: {
+    core: ["Node.js", "Express", "GraphQL", "REST APIs"],
+    databases: ["PostgreSQL", "MongoDB", "Supabase"],
+    auth: ["Auth.js", "JWT", "OAuth"],
+  },
+  cloud: {
+    aws: ["S3", "EC2", "CloudFront"],
+    deployment: ["Docker", "Nginx", "CI/CD"],
+    monitoring: ["Sentry", "Analytics"],
+  },
+};
+```
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 | 𝐍𝐞𝐱𝐭.𝐣𝐬 14 | 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 | 𝐍𝐨𝐝𝐞𝐉𝐒<br><br>👋 Hello! I'm Krishna Singh, a passionate Full-stack Developer with a strong command over the MERN (MongoDB, Express.js, React, Node.js) stack. With a successful journey spanning approximately 3 years, I thrive on bringing dynamic web solutions to life.<br><br>🚀 As a pivotal part of the Even Beam, I contribute to crafting innovative and user-centric websites and applications. Leveraging my proficiency in the MERN stack, I've undertaken a spectrum of roles, from 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐀𝐏𝐈𝐬 to 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐚𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬, all while ensuring peak performance and scalability.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h1 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -123,6 +117,62 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="adonisjs logo"  />
 </div>
+
+## 🌟 Featured Projects
+
+### AI-Powered Image Optimization Platform
+
+A SAAS application leveraging AI for advanced image processing
+
+- **Tech**: Next.js, TypeScript, MongoDB, Stripe, Cloudinary
+- **Impact**: Automated image enhancement workflow saving hours of manual processing
+- **Features**: Smart restoration, background removal, content-aware fill
+- [View Project →](#)
+
+### Professional Interior Design Platform
+
+Community-driven platform for interior design professionals
+
+- **Tech**: Next.js, Sanity CMS, MongoDB, TypeScript
+- **Features**: SSR for optimal performance, real-time interactions
+- **Scale**: Handling thousands of high-resolution images efficiently
+- [View Project →](#)
+
+### Headless E-commerce Platform
+
+Modern furniture store built with Shopify's Storefront API
+
+- **Tech**: Next.js, GraphQL, TypeScript, Server Components
+- **Features**: SSG for SEO, optimistic updates, suspense boundaries
+- **Performance**: 95+ Lighthouse score across all metrics
+- [View Project →](#)
+
+## 🎯 Career Highlights
+
+- Developed and maintained 50+ REST APIs powering critical business functions
+- Led database migration projects ensuring zero downtime and data integrity
+- Implemented automated testing and CI/CD pipelines improving deployment reliability
+- Optimized application performance reducing load times by significant margins
+
+## 📈 Always Learning
+
+Currently exploring:
+
+- Advanced patterns in React Server Components
+- Serverless architectures and Edge computing
+- AI/ML integration in web applications
+- System design and scalability patterns
+
+## 🤝 Let's Connect
+
+I'm always interested in challenging projects and meaningful collaborations.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+📧 **Get in touch**: singhks0054@gmail.com
 
 ###
 
