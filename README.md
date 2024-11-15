@@ -2,7 +2,7 @@
 
 > Full Stack Developer crafting robust web applications with modern technologies
 
-With 2+ years of hands-on experience building scalable applications, I specialize in creating exceptional digital experiences using Next.js, Node.js, and cloud technologies. Currently shaping the future of booking systems at Dingg as a Junior Software Engineer.
+With 3+ years of hands-on experience building scalable applications, I specialize in creating exceptional digital experiences using Next.js, Node.js, and cloud technologies. Currently shaping the future of booking systems at Dingg as a Junior Software Engineer.
 
 ## 🚀 What I Bring to the Table
 
